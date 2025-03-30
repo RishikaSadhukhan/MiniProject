@@ -1,2 +1,3 @@
 # MiniProject
-new repo
+My first Git Repository. 
+Author - Rishika Sadhukan
